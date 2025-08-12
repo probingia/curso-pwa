@@ -1,6 +1,6 @@
 const CACHE_NAME = 'dynamic-chunking-course-v1';
 const FILES_TO_CACHE = [
-  './Curso sobre paper Dynamic chunking.html',
+  './index.html',
   './manifest.json',
   './images/icon-192.png',
   './images/icon-512.png'

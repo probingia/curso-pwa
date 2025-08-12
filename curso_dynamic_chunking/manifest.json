@@ -1,0 +1,21 @@
+{
+  "name": "Curso sobre Dynamic Chunking",
+  "short_name": "Curso Chunking",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c71585",
+  "description": "Un curso interactivo sobre el paper 'Dynamic Chunking for End-to-End Hierarchical Sequence Modeling'.",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
